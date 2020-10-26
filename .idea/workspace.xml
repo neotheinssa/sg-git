@@ -34,7 +34,7 @@
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -53,6 +53,7 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -86,6 +87,14 @@
       <option name="presentableId" value="Default" />
       <updated>1603746063929</updated>
     </task>
+    <task id="LOCAL-00001" summary=";">
+      <created>1603747680886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603747680886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +113,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value=";" />
+    <option name="LAST_COMMIT_MESSAGE" value=";" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -146,5 +156,13 @@
       <screen x="56" y="27" width="2504" height="1413" />
     </state>
     <state width="1418" height="477" key="GridCell.Tab.1.right/56.27.2504.1413/2560.0.2560.1440@56.27.2504.1413" timestamp="1603747361422" />
+    <state x="658" y="368" width="917" height="737" key="SettingsEditor" timestamp="1603747805075">
+      <screen x="56" y="27" width="2504" height="1413" />
+    </state>
+    <state x="658" y="368" width="917" height="737" key="SettingsEditor/56.27.2504.1413/2560.0.2560.1440@56.27.2504.1413" timestamp="1603747805075" />
+    <state x="634" y="465" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1603747700217">
+      <screen x="56" y="27" width="2504" height="1413" />
+    </state>
+    <state x="634" y="465" width="800" height="543" key="Vcs.Push.Dialog.v2/56.27.2504.1413/2560.0.2560.1440@56.27.2504.1413" timestamp="1603747700217" />
   </component>
 </project>
