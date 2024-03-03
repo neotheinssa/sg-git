@@ -1,2 +1,2 @@
-# sg_git
+# sg-git
 sg private git
